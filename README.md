@@ -5,3 +5,4 @@ GoPrime is idealy suited to evaluate the sensitivity and specificty of genotype 
 
 GoPrime is combined with GoPrimeTree for visualising the CT results on a phylogenetic tree of the data, and GoPrimeAlign for identifying possible genotypic specific primer/probe sites.
 
+GoPrime was designed by Emma Howson, under the supervision of Veronica Fowler and Don King, and in collaboration with Richard Orton.
