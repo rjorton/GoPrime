@@ -1,0 +1,354 @@
+Evaluating seq 1 >A/TAN/7/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 2 >A/KEN/5/2012
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 3 >A/KEN/6/2012
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 4 >A/TAN/14/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 5 >A/TAN/15/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 6 >A/TAN/1/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 7 >A/TAN/61/2012
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 8 >A/TAN/71/2012
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 9 >A/G-I/TAN/42/2009
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 10 >A/G-I/TAN/45/2009
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 11 >A/G-I/KEN/28/2008
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 12 >A/TAN/26/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 13 >A/G-I/KEN/22/2009
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 14 >A/TAN/5/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 15 >A/TAN/6/2013
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 16 >O/EA-2/KEN/15/2011
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 17 >O/EA-2/KEN/16/2011
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 18 >O/EA-2/KEN/137/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 19 >O/EA-2/KEN/151/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 20 >O/EA-2/TAN/39/2012
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 21 >O/EA-2/KEN/145/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 22 >O/EA-2/KEN/146/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 23 >O/EA-2/TAN/16/2008
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 24 >O/EA-2/KEN/10/2009
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 25 >O/EA-2/KEN/154/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 26 >O/EA-2/TAN/5/2009
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 27 >O/EA-2/KEN/11/2011
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 28 >O/EA-2/KEN/1/2011
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 29 >O/EA-2/KEN/148/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 30 >O/EA-2/KEN/152/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 31 >O/EA-4/KEN/100/2010
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 32 >O/ETH/4/2013_EA-4/unnamed
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 33 >O/ETH/8/2013_EA-4/unnamed
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 34 >O/ETH/13/2013_EA-4/unnamed
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 35 >O/ETH/14/2013_EA-4/unnamed
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 36 >SAT1/TAN/20/2013
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 1 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 37 >SAT1/TAN/21/2013
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 1 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 38 >SAT1/TAN/22/2013
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 1 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 39 >SAT1/TAN/25/2013
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 1 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 40 >SAT1/TAN/27/2013
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 1 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 41 >SAT1/TAN/24/2013
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 1 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 42 >SAT1/TAN/49/2012
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 43 >SAT1/TAN/50/2012
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 44 >SAT1/T1/KEN/16/2009
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 45 >SAT1/T1/KEN/26/2008
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 46 >SAT1/T1/KEN/9/2009
+455 position is a candidate for 5'-Fwd-3'-Forward 75% 89.74% [%Match %MatchPair], 4 1 [TotMis Tot1-4]
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 0 [TotMis Tot1-4]
+1-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 Failed Fw=440/455 Rv=563/541 BestFailedProbe=52.63% 537/555 (Rule2) Failed 74.36%<17.95% matches of the pair (Rule 3) Failed as without [effective] probe 
+
+Evaluating seq 47 >SAT1/T1/KEN/139/2010
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 48 >SAT1/T1/KEN/71/2010
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 49 >SAT1/T1/KEN/72/2010
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 50 >SAT1/T1/KEN/140/2010
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 51 >SAT1/T1/KEN/1/2010
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+0-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+
+Evaluating seq 52 >SAT1/T1/KEN/121/2009
+455 position is a candidate for 5'-Fwd-3'-Forward 75% 89.74% [%Match %MatchPair], 4 1 [TotMis Tot1-4]
+473 position is a candidate for 5'-Fwd-3'-Forward 75% 89.74% [%Match %MatchPair], 4 0 [TotMis Tot1-4]
+541 position is a candidate for 3'-Rev-5'-Reverse 73.91% 84.62% [%Match %MatchPair], 6 0 [TotMis Tot1-4]
+2-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 Failed Fw=440/455 Rv=563/541 BestFailedProbe=57.89% 464/444 (Rule2) Failed 74.36%<17.95% matches of the pair (Rule 3) Failed as without [effective] probe 
+Set-2 Failed Fw=458/473 Rv=563/541 BestFailedProbe=52.63% 485/465 (Rule2) Failed 74.36%<17.95% matches of the pair (Rule 3) Failed as without [effective] probe 
+
+Evaluating seq 53 >SAT1/T1/KEN/12/2009
+455 position is a candidate for 5'-Fwd-3'-Forward 75% 89.74% [%Match %MatchPair], 4 1 [TotMis Tot1-4]
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+1-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 Failed Fw=440/455 Rv=563/541 BestFailedProbe=57.89% 464/444 (Rule2) Failed 76.92%<17.95% matches of the pair (Rule 3) Failed as without [effective] probe 
+
+Evaluating seq 54 >SAT1/T1/KEN/123/2009
+455 position is a candidate for 5'-Fwd-3'-Forward 75% 89.74% [%Match %MatchPair], 4 1 [TotMis Tot1-4]
+541 position is a candidate for 3'-Rev-5'-Reverse 78.26% 87.18% [%Match %MatchPair], 5 0 [TotMis Tot1-4]
+1-[0]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[0]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 Failed Fw=440/455 Rv=563/541 BestFailedProbe=57.89% 464/444 (Rule2) Failed 76.92%<17.95% matches of the pair (Rule 3) Failed as without [effective] probe 
+
+Evaluating seq 55 >SAT2/IV/TAN/7/2011
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 95.65% 97.44% [%Match %MatchPair], 1 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=2.21 [fCT=0 pCT=0 rCT=2.21]
+
+Evaluating seq 56 >SAT2/IV/KEN/12/2011
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 57 >SAT2/IV/TAN/6/2011
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 58 >SAT2/IV/TAN/3/2011
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 59 >SAT2/IV/KEN/21/2011
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 60 >SAT2/TAN/64/2012
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 61 >SAT2/IV/TAN/14/2012
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 62 >SAT2/IV/TAN/16/2012
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 63 >SAT2/IV/TAN/19/2012
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 64 >SAT2/IV/KEN/2/2007
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+432 position is a candidate for 3'-Fwd-5'-Forward 75% 89.74% [%Match %MatchPair], 4 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+1-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 65 >SAT2/IV/KEN/11/2007
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+
+Evaluating seq 66 >SAT2/IV/KEN/2/2008
+440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+517 position is a candidate for 5'-Probe-3'-Probe 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+529 position is a candidate for 3'-Rev-5'-Reverse 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
+1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
+0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
+Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
+deltaCT=0 [fCT=0 pCT=0 rCT=0]
+

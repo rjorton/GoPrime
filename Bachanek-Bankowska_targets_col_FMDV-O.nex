@@ -1,0 +1,168 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=66;
+	taxlabels
+	'A/G-I/KEN/22/2009'
+	'A/G-I/KEN/28/2008'
+	'A/G-I/TAN/42/2009'
+	'A/G-I/TAN/45/2009'
+	'A/KEN/5/2012'
+	'A/KEN/6/2012'
+	'A/TAN/1/2013'
+	'A/TAN/14/2013'
+	'A/TAN/15/2013'
+	'A/TAN/26/2013'
+	'A/TAN/5/2013'
+	'A/TAN/6/2013'
+	'A/TAN/61/2012'
+	'A/TAN/7/2013'
+	'A/TAN/71/2012'
+	'O/EA-2/KEN/1/2011'[&!color=#1a9850]
+	'O/EA-2/KEN/10/2009'[&!color=#a6d96a]
+	'O/EA-2/KEN/11/2011'[&!color=#1a9850]
+	'O/EA-2/KEN/137/2010'[&!color=#66bd63]
+	'O/EA-2/KEN/145/2010'[&!color=#1a9850]
+	'O/EA-2/KEN/146/2010'[&!color=#66bd63]
+	'O/EA-2/KEN/148/2010'[&!color=#1a9850]
+	'O/EA-2/KEN/15/2011'[&!color=#66bd63]
+	'O/EA-2/KEN/151/2010'[&!color=#66bd63]
+	'O/EA-2/KEN/152/2010'[&!color=#1a9850]
+	'O/EA-2/KEN/154/2010'[&!color=#66bd63]
+	'O/EA-2/KEN/16/2011'[&!color=#66bd63]
+	'O/EA-2/TAN/16/2008'[&!color=#a6d96a]
+	'O/EA-2/TAN/39/2012'[&!color=#66bd63]
+	'O/EA-2/TAN/5/2009'[&!color=#1a9850]
+	'O/EA-4/KEN/100/2010'[&!color=#1a9850]
+	'O/ETH/13/2013_EA-4/unnamed'[&!color=#66bd63]
+	'O/ETH/14/2013_EA-4/unnamed'[&!color=#66bd63]
+	'O/ETH/4/2013_EA-4/unnamed'[&!color=#66bd63]
+	'O/ETH/8/2013_EA-4/unnamed'[&!color=#66bd63]
+	'SAT1/T1/KEN/1/2010'
+	'SAT1/T1/KEN/12/2009'
+	'SAT1/T1/KEN/121/2009'
+	'SAT1/T1/KEN/123/2009'
+	'SAT1/T1/KEN/139/2010'
+	'SAT1/T1/KEN/140/2010'
+	'SAT1/T1/KEN/16/2009'
+	'SAT1/T1/KEN/26/2008'
+	'SAT1/T1/KEN/71/2010'
+	'SAT1/T1/KEN/72/2010'
+	'SAT1/T1/KEN/9/2009'
+	'SAT1/TAN/20/2013'
+	'SAT1/TAN/21/2013'
+	'SAT1/TAN/22/2013'
+	'SAT1/TAN/24/2013'
+	'SAT1/TAN/25/2013'
+	'SAT1/TAN/27/2013'
+	'SAT1/TAN/49/2012'
+	'SAT1/TAN/50/2012'
+	'SAT2/IV/KEN/11/2007'
+	'SAT2/IV/KEN/12/2011'
+	'SAT2/IV/KEN/2/2007'
+	'SAT2/IV/KEN/2/2008'
+	'SAT2/IV/KEN/21/2011'
+	'SAT2/IV/TAN/14/2012'
+	'SAT2/IV/TAN/16/2012'
+	'SAT2/IV/TAN/19/2012'
+	'SAT2/IV/TAN/3/2011'
+	'SAT2/IV/TAN/6/2011'
+	'SAT2/IV/TAN/7/2011'
+	'SAT2/TAN/64/2012'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((((((('O/EA-2/KEN/15/2011':0.009857,'O/EA-2/KEN/16/2011':0.001714):0.008828,('O/EA-2/KEN/137/2010':0.0,'O/EA-2/KEN/151/2010':0.0):0.01159):0.001169,'O/EA-2/TAN/39/2012':0.016353):0.029634,('O/EA-2/KEN/145/2010':0.00503,'O/EA-2/KEN/146/2010':0.003637):0.043749):0.037887,'O/EA-2/TAN/16/2008':0.091449):0.01806,'O/EA-2/KEN/10/2009':0.082543):0.01788,('O/EA-2/KEN/154/2010':0.096021,'O/EA-2/TAN/5/2009':0.072833):0.006318):0.007902,(('O/EA-2/KEN/11/2011':0.006479,'O/EA-2/KEN/1/2011':0.010946):8.72E-4,('O/EA-2/KEN/148/2010':0.002052,'O/EA-2/KEN/152/2010':0.003719):0.002031):0.07398):0.069511,('O/EA-4/KEN/100/2010':0.036375,(('O/ETH/4/2013_EA-4/unnamed':0.010091,'O/ETH/8/2013_EA-4/unnamed':0.010267):8.17E-4,('O/ETH/13/2013_EA-4/unnamed':0.0,'O/ETH/14/2013_EA-4/unnamed':0.0):0.004956):0.041069):0.099263):0.287492,(((((('A/G-I/TAN/42/2009':0.011838,'A/G-I/KEN/28/2008':0.002665):0.003058,'A/G-I/KEN/22/2009':0.017453):0.003353,'A/G-I/TAN/45/2009':0.020178):0.005152,'A/TAN/26/2013':0.044148):0.010367,('A/KEN/5/2012':0.0,'A/KEN/6/2012':0.0):0.035249):0.010365,('A/TAN/71/2012':0.013006,(('A/TAN/14/2013':0.002201,'A/TAN/15/2013':6.81E-4):0.003943,(('A/TAN/1/2013':0.0,'A/TAN/61/2012':0.0):2.26E-4,('A/TAN/7/2013':0.0,('A/TAN/5/2013':0.0,'A/TAN/6/2013':0.0):0.0):0.008442):0.001855):0.007411):0.041372):0.405831,(((((((('SAT2/IV/TAN/7/2011':0.004932,'SAT2/IV/KEN/12/2011':8.39E-4):8.62E-4,'SAT2/IV/KEN/21/2011':0.002027):5.41E-4,'SAT2/IV/TAN/3/2011':0.002345):0.00206,'SAT2/IV/TAN/6/2011':8.34E-4):0.004371,'SAT2/IV/TAN/19/2012':0.001413):0.005207,('SAT2/TAN/64/2012':0.009869,('SAT2/IV/TAN/14/2012':0.00608,'SAT2/IV/TAN/16/2012':0.005491):0.004676):0.003517):0.126765,('SAT2/IV/KEN/2/2008':0.003125,('SAT2/IV/KEN/2/2007':0.006194,'SAT2/IV/KEN/11/2007':0.00831):0.005588):0.092169):0.594389,(('SAT1/T1/KEN/12/2009':0.005737,'SAT1/T1/KEN/123/2009':0.035399):0.082491,('SAT1/T1/KEN/121/2009':0.091858,('SAT1/T1/KEN/9/2009':0.087692,(((((('SAT1/TAN/20/2013':0.0,'SAT1/TAN/21/2013':0.0):0.001538,'SAT1/TAN/25/2013':0.004233):0.001221,'SAT1/TAN/27/2013':0.0):8.07E-4,'SAT1/TAN/22/2013':0.004972):0.001913,'SAT1/TAN/24/2013':9.74E-4):0.064438,(('SAT1/TAN/49/2012':0.001384,'SAT1/TAN/50/2012':0.001498):0.075935,(('SAT1/T1/KEN/16/2009':0.007184,'SAT1/T1/KEN/26/2008':0.010242):0.061189,('SAT1/T1/KEN/72/2010':0.006398,('SAT1/T1/KEN/140/2010':0.001385,('SAT1/T1/KEN/1/2010':0.0,('SAT1/T1/KEN/139/2010':0.014715,'SAT1/T1/KEN/71/2010':0.005671):0.002967):0.001516):0.00157):0.049257):0.006457):0.004925):0.016875):0.043488):0.027037):0.53049):0.583584);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="POLAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
