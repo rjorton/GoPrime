@@ -1,7 +1,7 @@
 # GoPrime
 GoPrime was designed by [Emma Howson](https://www.pirbright.ac.uk/users/dr-emma-howson) (Pirbright Institute) and [Richard Orton](https://www.gla.ac.uk/researchinstitutes/iii/staff/richardorton/) (University of Glasgow), in collaboration with [Don King](https://www.pirbright.ac.uk/users/dr-don-king) (Pirbright Institute) and [Veronica Fowler](https://www.researchgate.net/profile/Veronica_Fowler).  
 
-**Citation:** a manuscript describing GoPrime has recently been submitted:
+**Citation:** a manuscript describing GoPrime has recently been submitted:\
 GoPrime: development of an in silico framework to predict the performance of real-time PCR primers and probes using foot-and-mouth disease virus as a model
 Emma L A Howson, Richard J Orton, Valerie Mioul, Sarah Cleaveland, Tiziana Lembo, Donald P King and Veronica L Fowler
 
@@ -29,11 +29,12 @@ The order is essential as GoPrime uses the order of the sequences rather than th
 **target_sequences.fasta**
 This file contains the target sequences, such as full or partial viral genomes, that you went to evaluate your primer and probe sets against. This should be in FASTA format, and in 5’-3’ direction. GoPrime can handle ambiguity codes in the target sequences.
 
-GoPrime operates by taking each target sequence in turn. It then searches the entire sequence for potential primer/probe binding sites that meet the minimum priming criteria, see Howson et al. (submitted) for full details but briefly:
+GoPrime operates by taking each target sequence in turn. It then searches the entire sequence for potential primer/probe binding sites that meet the minimum priming criteria, see Howson *et al.* (submitted) for full details but briefly:
 ```
 Primers
 Maximum of 2 mismatches between the primers and template at the 3’ end (last 4 nucleotides)
 Minimum of 82.05% match between primers and template
+
 Probes
 Minimum of 85% match between the probe and the template
 ```
