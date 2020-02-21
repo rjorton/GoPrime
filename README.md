@@ -37,12 +37,13 @@ Minimum of 82.05% match between primers and template
 Probes
 Minimum of 85% match between the probe and the template
 ```
-After finding candidate priming sites for the probe and forward and reverse primers individually, these are then evaluated to see if any combinations of these can form a successful set that are the correct orientation (with respective to each other) and that there are no overlaps. If a successful set is found, GoPrime will then evaluate if it will prime successfully (based on the above rules), and if success GoPrime will calculate an expected deltaCT and deltaLOD score based on the penalties calculated from the linear model analysis, see Howson et al (submitted) for full details but briefly:
+After finding candidate priming sites for the probe and forward and reverse primers individually, these are then evaluated to see if any combinations of these can form a successful set that are the correct orientation (with respective to each other) and that there are no overlaps. If a successful set is found, GoPrime will then evaluate if it will prime successfully (based on the above rules), and if success GoPrime will calculate an expected deltaCT and deltaLOD score based on the penalties calculated from the linear model analysis, see Howson *et al.* (submitted) for full details but briefly:
 
 GoPrime will output two text files:
 
 **target_sequences.fasta_cts.txt**
 This file contains the deltaCT and deltaLOD scores for each target sequence. Fields are:
+```
 1)	Target sequence name
 2)	deltaCT
 3)	deltaLOD
@@ -50,6 +51,7 @@ This file contains the deltaCT and deltaLOD scores for each target sequence. Fie
 5)	Probe– deltaCT and start/end co-ordinate of binding site on the target sequence
 6)	RevPrimer – deltaCT and start/end co-ordinate of binding site on the target sequence
 7)	Length of PCR product
+```
 
 **target_sequences.fasta_out.txt**
 This file contains the output messages from GoPrime as it processes each target sequence in turn. An example output is below, which is evaluating a single target sequence (TestSeq), it identifies a single potential binding site for the forward (postion 23), probe (position 72), and reverse (position 92) primers. In each case, the %Match between the primer/probe and template is reported (and for primers a %match when considering the combined fwd+rev primer length), and the totoal number of mismatches across the whole primer (TotMis) vs the total in the 3’ end (last 4 nucleotides) of the primer (Tot1-4). A single potential fwd/probe/rev set is found (1-[1]-1) in the expected orientation (fwd going fwd in direction, rev going in rev direction), and this has a predicted deltaCT of 3.4. This is a result of mismatches between the forward primer and the template, as the probe and reverse primer are perfect matches.
