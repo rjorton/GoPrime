@@ -181,7 +181,7 @@ Evaluating seq 36 >SAT1/TAN/20/2013
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=106/123 Probe=203/185 Rev=226/208
-deltaCT=2.09 [fCT=0 pCT=2.09 rCT=0]
+deltaCT=2.94 [fCT=0 pCT=2.94 rCT=0]
 
 Evaluating seq 37 >SAT1/TAN/21/2013
 123 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -190,7 +190,7 @@ Evaluating seq 37 >SAT1/TAN/21/2013
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=106/123 Probe=203/185 Rev=226/208
-deltaCT=2.09 [fCT=0 pCT=2.09 rCT=0]
+deltaCT=2.94 [fCT=0 pCT=2.94 rCT=0]
 
 Evaluating seq 38 >SAT1/TAN/22/2013
 123 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -199,7 +199,7 @@ Evaluating seq 38 >SAT1/TAN/22/2013
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=106/123 Probe=203/185 Rev=226/208
-deltaCT=2.09 [fCT=0 pCT=2.09 rCT=0]
+deltaCT=2.94 [fCT=0 pCT=2.94 rCT=0]
 
 Evaluating seq 39 >SAT1/TAN/25/2013
 123 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -208,7 +208,7 @@ Evaluating seq 39 >SAT1/TAN/25/2013
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=106/123 Probe=203/185 Rev=226/208
-deltaCT=2.09 [fCT=0 pCT=2.09 rCT=0]
+deltaCT=2.94 [fCT=0 pCT=2.94 rCT=0]
 
 Evaluating seq 40 >SAT1/TAN/27/2013
 123 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -217,7 +217,7 @@ Evaluating seq 40 >SAT1/TAN/27/2013
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=106/123 Probe=203/185 Rev=226/208
-deltaCT=2.09 [fCT=0 pCT=2.09 rCT=0]
+deltaCT=2.94 [fCT=0 pCT=2.94 rCT=0]
 
 Evaluating seq 41 >SAT1/TAN/24/2013
 123 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -226,7 +226,7 @@ Evaluating seq 41 >SAT1/TAN/24/2013
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=106/123 Probe=203/185 Rev=226/208
-deltaCT=2.09 [fCT=0 pCT=2.09 rCT=0]
+deltaCT=2.94 [fCT=0 pCT=2.94 rCT=0]
 
 Evaluating seq 42 >SAT1/TAN/49/2012
 123 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]

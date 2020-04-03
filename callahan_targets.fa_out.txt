@@ -5,7 +5,7 @@ Evaluating seq 1 >JX040500
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=3.4 [fCT=3.4 pCT=0 rCT=0]
+deltaCT=3.3 [fCT=3.3 pCT=0 rCT=0]
 
 Evaluating seq 2 >KC440884
 23 position is a candidate for 5'-Fwd-3'-fwd 90.91% 94.87% [%Match %MatchPair], 2 0 [TotMis Tot1-4]
@@ -14,7 +14,7 @@ Evaluating seq 2 >KC440884
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=4.43 [fCT=4.43 pCT=0 rCT=0]
+deltaCT=4.46 [fCT=4.46 pCT=0 rCT=0]
 
 Evaluating seq 3 >AY593802
 23 position is a candidate for 5'-Fwd-3'-fwd 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -23,7 +23,7 @@ Evaluating seq 3 >AY593802
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=7.39 [fCT=0 pCT=1.77 rCT=5.61]
+deltaCT=8.03 [fCT=0 pCT=2.5 rCT=5.53]
 
 Evaluating seq 4 >KC440883
 23 position is a candidate for 5'-Fwd-3'-fwd 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -32,7 +32,7 @@ Evaluating seq 4 >KC440883
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=5.61 [fCT=0 pCT=0 rCT=5.61]
+deltaCT=5.53 [fCT=0 pCT=0 rCT=5.53]
 
 Evaluating seq 5 >AY593812
 23 position is a candidate for 5'-Fwd-3'-fwd 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -41,7 +41,7 @@ Evaluating seq 5 >AY593812
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=5.13 [fCT=0 pCT=0 rCT=5.13]
+deltaCT=5.22 [fCT=0 pCT=0 rCT=5.22]
 
 Evaluating seq 6 >KF112882
 23 position is a candidate for 5'-Fwd-3'-fwd 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -50,7 +50,7 @@ Evaluating seq 6 >KF112882
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=0.73 [fCT=0 pCT=0.73 rCT=0]
+deltaCT=2.5 [fCT=0 pCT=2.5 rCT=0]
 
 Evaluating seq 7 >HM191257
 23 position is a candidate for 5'-Fwd-3'-fwd 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -59,5 +59,5 @@ Evaluating seq 7 >HM191257
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=2/23 Probe=53/72 Rev=108/92
-deltaCT=5.17 [fCT=0 pCT=1.77 rCT=3.4]
+deltaCT=5.8 [fCT=0 pCT=2.5 rCT=3.3]
 

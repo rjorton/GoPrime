@@ -110,7 +110,7 @@ Evaluating seq 16 >O/EA-2/KEN/15/2011
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=2.02 [fCT=0 pCT=2.02 rCT=0]
+deltaCT=2.27 [fCT=0 pCT=2.27 rCT=0]
 
 Evaluating seq 17 >O/EA-2/KEN/16/2011
 499 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -119,7 +119,7 @@ Evaluating seq 17 >O/EA-2/KEN/16/2011
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=2.02 [fCT=0 pCT=2.02 rCT=0]
+deltaCT=2.27 [fCT=0 pCT=2.27 rCT=0]
 
 Evaluating seq 18 >O/EA-2/KEN/137/2010
 499 position is a candidate for 5'-Fwd-3'-Forward 94.44% 97.37% [%Match %MatchPair], 1 0 [TotMis Tot1-4]
@@ -128,7 +128,7 @@ Evaluating seq 18 >O/EA-2/KEN/137/2010
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=4.29 [fCT=2.27 pCT=2.02 rCT=0]
+deltaCT=4.56 [fCT=2.29 pCT=2.27 rCT=0]
 
 Evaluating seq 19 >O/EA-2/KEN/151/2010
 499 position is a candidate for 5'-Fwd-3'-Forward 94.44% 97.37% [%Match %MatchPair], 1 0 [TotMis Tot1-4]
@@ -137,7 +137,7 @@ Evaluating seq 19 >O/EA-2/KEN/151/2010
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=4.29 [fCT=2.27 pCT=2.02 rCT=0]
+deltaCT=4.56 [fCT=2.29 pCT=2.27 rCT=0]
 
 Evaluating seq 20 >O/EA-2/TAN/39/2012
 499 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -146,7 +146,7 @@ Evaluating seq 20 >O/EA-2/TAN/39/2012
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=2.02 [fCT=0 pCT=2.02 rCT=0]
+deltaCT=2.27 [fCT=0 pCT=2.27 rCT=0]
 
 Evaluating seq 21 >O/EA-2/KEN/145/2010
 499 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -164,7 +164,7 @@ Evaluating seq 22 >O/EA-2/KEN/146/2010
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 23 >O/EA-2/TAN/16/2008
 499 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -173,7 +173,7 @@ Evaluating seq 23 >O/EA-2/TAN/16/2008
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=6.18 [fCT=0 pCT=0 rCT=6.18]
+deltaCT=6.22 [fCT=0 pCT=0 rCT=6.22]
 
 Evaluating seq 24 >O/EA-2/KEN/10/2009
 499 position is a candidate for 5'-Fwd-3'-Forward 94.44% 97.37% [%Match %MatchPair], 1 0 [TotMis Tot1-4]
@@ -182,7 +182,7 @@ Evaluating seq 24 >O/EA-2/KEN/10/2009
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=6.16 [fCT=2.27 pCT=1.61 rCT=2.27]
+deltaCT=6.85 [fCT=2.29 pCT=2.27 rCT=2.29]
 
 Evaluating seq 25 >O/EA-2/KEN/154/2010
 499 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -191,7 +191,7 @@ Evaluating seq 25 >O/EA-2/KEN/154/2010
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=482/499 Probe=549/526 Rev=620/601
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 26 >O/EA-2/TAN/5/2009
 499 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -246,7 +246,7 @@ Evaluating seq 31 >O/EA-4/KEN/100/2010
 2-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=209/226 Probe=552/529 Rev=623/604
-deltaCT=14.27 [fCT=14.27 pCT=0 rCT=0]
+deltaCT=14.44 [fCT=14.44 pCT=0 rCT=0]
 Set-2 RT-PCR Success Fwd=485/502 Probe=552/529 Rev=623/604
 deltaCT=0 [fCT=0 pCT=0 rCT=0]
 
@@ -257,7 +257,7 @@ Evaluating seq 32 >O/ETH/4/2013_EA-4/unnamed
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=485/502 Probe=552/529 Rev=623/604
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 33 >O/ETH/8/2013_EA-4/unnamed
 502 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -266,7 +266,7 @@ Evaluating seq 33 >O/ETH/8/2013_EA-4/unnamed
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=485/502 Probe=552/529 Rev=623/604
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 34 >O/ETH/13/2013_EA-4/unnamed
 502 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -275,7 +275,7 @@ Evaluating seq 34 >O/ETH/13/2013_EA-4/unnamed
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=485/502 Probe=552/529 Rev=623/604
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 35 >O/ETH/14/2013_EA-4/unnamed
 502 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -284,7 +284,7 @@ Evaluating seq 35 >O/ETH/14/2013_EA-4/unnamed
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=485/502 Probe=552/529 Rev=623/604
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 36 >SAT1/TAN/20/2013
 517 position is a candidate for 5'-Fwd-3'-Forward 72.22% 86.84% [%Match %MatchPair], 5 2 [TotMis Tot1-4]

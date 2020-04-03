@@ -1470,7 +1470,42 @@ public class GoPrime {
          
         primerCts=new double[9];//this could do down to 7 now
         primerCts2=new double[9];//and this
-         
+        
+        primerCts[0]=0.87;//per % 
+        primerCts[1]=1.64;//nt 1 Ts 
+        primerCts[2]=4.10;//nt 1 Tv
+        primerCts[3]=0.9;//nt 2 Ts
+        primerCts[4]=3.44;//nt 2 Tv 
+        primerCts[5]=1.07;//nt 3-4 Ts 
+        primerCts[6]=2.99;//nt 3-4 Tv 
+        primerCts[7]=1.07;//nt 4 Ts
+        primerCts[8]=2.99;//nt 4 Tv 
+        
+        primerCts2[0]=0;//% doesnt have a differnet value for combined
+        primerCts2[1]=4.88;//2 Ts at nt 1
+        primerCts2[2]=8.71;//2 Tv at nt 1
+        primerCts2[3]=3.32;//2 Ts at nt 2
+        primerCts2[4]=6.13;//2 Tv at nt 2
+        primerCts2[5]=2.14;//2 Ts at nt 3-4
+        primerCts2[6]=4.83;//2 Tv at nt 3-4
+        primerCts2[7]=2.14;//same as [5] - just including for completeness
+        primerCts2[8]=4.83;//same as [6] - just including for completeness
+       
+        probeCts=new double[6];
+        probeCts[0]=0.50;//per %
+        probeCts[1]=0;//nt 1 Ts - 1-4 TsTv 
+        probeCts[2]=0;//nt 1 Tv - 1-4 TsTv 
+        probeCts[3]=0;//nt 2-4 Ts - 1-4 TsTv 
+        probeCts[4]=0;//nt 2-4 Tv - 1-4 TsTv 
+        probeCts[5]=0;//New 5' 1-4 nt
+       
+        intraPrimer=-0.27;//
+        interPrimer=-0.27;//
+        intraProbe=0;//
+        interProbe=0.43;//
+        
+                
+        /* 
         primerCts[0]=0.86313;//per % - was 1.05177
         primerCts[1]=1.63934;//nt 1 Ts - was 3.351592
         primerCts[2]=4.0097;//nt 1 Tv - was 5.762987
@@ -1490,7 +1525,7 @@ public class GoPrime {
         primerCts2[6]=4.85546;//2 Tv at nt 3-4
         primerCts2[7]=1.7551;//same as [5] - just including for completeness
         primerCts2[8]=4.85546;//same as [6] - just including for completeness
-
+        
         probeCts=new double[6];
         probeCts[0]=0.35490;//per % - was 0.282996
         probeCts[1]=0.40779;//was 1.767975;//nt 1 Ts - 1-4 TsTv now
@@ -1503,7 +1538,8 @@ public class GoPrime {
         interPrimer=0.27264;//was -0.8052;
         intraProbe=-0.83874;//not sure if this still exists
         interProbe=0.42976;//was 1.6729;//inter as in probe with primer
-        
+        */
+                
         deltaLod=3.43527;
         
         max14nt=2;//maximum mutatins in 1-4 nts at 3' end of primer

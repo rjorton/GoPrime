@@ -250,7 +250,7 @@ Evaluating seq 55 >SAT2/IV/TAN/7/2011
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=425/440 Probe=499/517 Rev=551/529
-deltaCT=2.21 [fCT=0 pCT=0 rCT=2.21]
+deltaCT=2.23 [fCT=0 pCT=0 rCT=2.23]
 
 Evaluating seq 56 >SAT2/IV/KEN/12/2011
 440 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]

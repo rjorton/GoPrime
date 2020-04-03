@@ -77,7 +77,7 @@ Evaluating seq 9 >A/G-I/TAN/42/2009
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=505/521 Probe=526/545 Rev=660/640
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 10 >A/G-I/TAN/45/2009
 521 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -86,7 +86,7 @@ Evaluating seq 10 >A/G-I/TAN/45/2009
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=505/521 Probe=526/545 Rev=660/640
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 11 >A/G-I/KEN/28/2008
 521 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -95,7 +95,7 @@ Evaluating seq 11 >A/G-I/KEN/28/2008
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=505/521 Probe=526/545 Rev=660/640
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 12 >A/TAN/26/2013
 521 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
@@ -113,7 +113,7 @@ Evaluating seq 13 >A/G-I/KEN/22/2009
 1-[1]-1 Fwd-[Probe]-Rev individual candidate primer/probe positions found in expected orientation
 0-[1]-0 Fwd-[Probe]-Rev individual candidate primer/probe positions found in opposite orientation
 Set-1 RT-PCR Success Fwd=505/521 Probe=526/545 Rev=660/640
-deltaCT=2.27 [fCT=0 pCT=0 rCT=2.27]
+deltaCT=2.29 [fCT=0 pCT=0 rCT=2.29]
 
 Evaluating seq 14 >A/TAN/5/2013
 521 position is a candidate for 5'-Fwd-3'-Forward 100% 100% [%Match %MatchPair], 0 0 [TotMis Tot1-4]
